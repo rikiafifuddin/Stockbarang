@@ -5,6 +5,6 @@
  xampp
  
  MAIN FILE ON: PRODUCTION FOLDER
- DATABASE: test.sql
+ and for DATABASE: test.sql
  
 for preview without instal you can see on folder "Screen Shot"
